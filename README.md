@@ -1,5 +1,5 @@
 # Simple-Chat-Application
-Simple Chat Application - 12th grade
+Simple Chat Application made in C++ in 12th grade using C++ graphics among computers in a network using the shared space. 
 
 
  INTRODUCTION
